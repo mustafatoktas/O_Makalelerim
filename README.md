@@ -6,20 +6,20 @@
 
 ## **Kategoriler**
 
-- [Yazılım](#yazılım)
-- [Android](#android)
-- [Kotlin](#kotlin)
-- [Jetpack Compose](#jetpack-compose)
-- [İşletim Sistemleri](#i̇şletim-sistemleri)
-- [Teknoloji](#teknoloji)
-- [Toplum ve Teknoloji](#toplum-ve-teknoloji)
+| Kategori Adı                                | Makale Sayısı | Yayınlanan Son Makale Başlığı                                                                                                                           | Tarih           |
+| ------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Yazılım](#yazılım)                         | 2             | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md)                                                             | 27 Ağustos 2024 |
+| [Android](#android)                         | 2             | [Android’de KAPT ve KSP Arasındaki Farklar Nelerdir?](./Makaleler/Android/2%20Android’de%20KAPT%20ve%20KSP%20Arasındaki%20Farklar%20Nelerdir/Makale.md) | 23 Ağustos 2024 |
+| [Kotlin](#kotlin)                           | 0             |                                                                                                                                                         |                 |
+| [Jetpack Compose](#jetpack-compose)         | 1             | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md)               | 25 Ağustos 2024 |
+| [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                             | 24 Ağustos 2024 |
+| [Teknoloji](#teknoloji)                     | 0             |                                                                                                                                                         |                 |
+| [Teknoloji ve Toplum](#teknoloji-ve-toplum) | 1             | [Toplum 5.0 ve Yeni Dünya Düzeni](./Makaleler/Toplum%20ve%20Teknoloji/1%20Toplum%205.0%20ve%20Yeni%20Dünya%20Düzeni/Makale.md)                          | 26 Ağustos 2024 |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Yazılım 
-
-*Makale Sayısı :* 2
 
 | Makale Başlığı                                                                              | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
@@ -27,9 +27,9 @@
 | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md) | 27 Ağustos 2024   |                       | 7 dakika             |
 
 
-## Android 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 2
+## Android 
 
 | Makale Başlığı                                                                                                                                          | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
@@ -37,45 +37,45 @@
 | [Android’de KAPT ve KSP Arasındaki Farklar Nelerdir?](./Makaleler/Android/2%20Android’de%20KAPT%20ve%20KSP%20Arasındaki%20Farklar%20Nelerdir/Makale.md) | 23 Ağustos 2024   |                       | 4 dakika             |
 
 
-## Kotlin
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 0
+## Kotlin
 
 | Makale Başlığı      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------- | ----------------- | --------------------- | -------------------- |
 | [Makale Başlığı](.) |                   |                       |                      |
 
 
-## Jetpack Compose
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 1
+## Jetpack Compose
 
 | Makale Başlığı                                                                                                                            | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
 | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md) | 25 Ağustos 2024   |                       | 7 dakika             |
 
 
-## İşletim Sistemleri
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 1
+## İşletim Sistemleri
 
 | Makale Başlığı                                                                                              | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ----------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
 | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md) | 24 Ağustos 2024   |                       | 8 dakika             |
 
 
-## Teknoloji
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 0
+## Teknoloji
 
 | Makale Başlığı      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------- | ----------------- | --------------------- | -------------------- |
 | [Makale Başlığı](.) | 26 Ağustos 2024   |                       |                      |
 
 
-## Toplum ve Teknoloji
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-*Makale Sayısı :* 1
+## Teknoloji ve Toplum
 
 | Makale Başlığı                                                                                                                 | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | --------------------- | -------------------- |

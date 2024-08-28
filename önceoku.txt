@@ -1,3 +1,0 @@
-android 3. makaleye visitor kodu al, makale.md'ye ekle. 
-
-en son readme.md kondtrolü yap ve makale.md kontrolü sonra pushla

@@ -25,7 +25,9 @@
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-<img src="./Resources/1.webp" alt="Resim" height="500"/>
+<div align="center">
+  <img src="./Resources/1.webp" alt="Resim" height="500"/>
+</div>
 
 <br>
 

@@ -27,7 +27,9 @@
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-<img src="./Resources/1.webp" alt="KAPT - KSP"/>
+<div align="center">
+  <img src="./Resources/1.webp" alt="KAPT - KSP"/>
+</div>  
 
 <br>
 

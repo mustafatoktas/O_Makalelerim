@@ -30,7 +30,9 @@
 Bu yazımda Lint üzerine detaylı bir inceleme yapacağız. Sonrasında ise sektörde kullanılan iki
 kütüphaneyi inceliyor olacağız.
 
-<img src="./Resources/5.webp" alt="Kotlin" width="450"/>
+<div align="center">
+  <img src="./Resources/5.webp" alt="Kotlin" width="450"/>
+</div>
 
 <br>
 

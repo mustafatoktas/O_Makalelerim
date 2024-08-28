@@ -33,7 +33,9 @@
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-<img src="./Resources/1.webp" alt="Effect Handlers"/>
+<div align="center">
+  <img src="./Resources/1.webp" alt="Effect Handlers"/>
+</div>  
 
 <br>
 

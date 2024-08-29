@@ -59,6 +59,11 @@ O zaman Özetle şu şekilde düşünebiliriz:
 
 `JDK` = `JRE` + `compiler` + `debugger`
 
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 

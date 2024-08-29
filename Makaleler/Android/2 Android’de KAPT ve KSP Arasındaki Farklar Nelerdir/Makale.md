@@ -148,6 +148,11 @@ Ayrıca KSP kullanacaksanız öncelikle [desteklenen kütüphanelere](https://ko
 KSP, KAPT'tan daha hızlıdır. KSP'yi kullanarak yapım sürelerini azaltabilirsiniz. Projeniz mevcut bir proje ise KAPT'ı kullanmak daha kolay olabilir.
 Ancak projeniz daha yeni bir proje ise KSP'yi kullanmak daha kolay olabilir.
 
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 

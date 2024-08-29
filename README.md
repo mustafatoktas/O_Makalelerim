@@ -6,11 +6,11 @@
 
 ## **Kategoriler**
 
-| Kategori Adı                                | Makale Sayısı | Son Eklenen Makale Başlığı                                                                                                                                                                          | Tarih           |
+| Kategori Adı                                | Makale Sayısı | Kategoriye Eklenen Son Makale                                                                                                                                                                       | Tarih           |
 | ------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Yazılım](#yazılım)                         | 2             | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md)                                                                                                         | 27 Ağustos 2024 |
-| [Android](#android)                         | 4             | [Android Projelerinde API Anahtarını Güvenli Bir Şekilde Nasıl Saklarız?](./Makaleler/Android/4%20Android%20Projelerinde%20API%20Anahtarını%20Güvenli%20Bir%20Şekilde%20Nasıl%20Saklarız/Makale.md) | 30 Ağustos 2024 |
-| [Kotlin](#kotlin)                           | 0             |                                                                                                                                                                                                     |                 |
+| [Android](#android)                         | 5             | [Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme](./Makaleler/Android/5%20Android%20Uygulamalara%20Root%20ve%20Emülatör%20Tespiti%20Kontrolü%20Ekleme/Makale.md)                      |  2 Eylül   2024 |
+| [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024 |
 | [Jetpack Compose](#jetpack-compose)         | 1             | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md)                                                           | 25 Ağustos 2024 |
 | [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C#/1%20C#%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                                     | 28 Ağustos 2024 |
 | [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                                                                         | 24 Ağustos 2024 |
@@ -34,22 +34,21 @@
 
 | Makale Başlığı                                                                                                                                                                                      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
-| [Android Projelerinde API Anahtarını Güvenli Bir Şekilde Nasıl Saklarız?](./Makaleler/Android/4%20Android%20Projelerinde%20API%20Anahtarını%20Güvenli%20Bir%20Şekilde%20Nasıl%20Saklarız/Makale.md) | 30 Ağustos 2024   |                       | 3 dakika             |
+| [Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme](./Makaleler/Android/5%20Android%20Uygulamalara%20Root%20ve%20Emülatör%20Tespiti%20Kontrolü%20Ekleme/Makale.md)                      |  2 Eylül   2024   |                       |  4 dakika            |
+| [Android Projelerinde API Anahtarını Güvenli Bir Şekilde Nasıl Saklarız?](./Makaleler/Android/4%20Android%20Projelerinde%20API%20Anahtarını%20Güvenli%20Bir%20Şekilde%20Nasıl%20Saklarız/Makale.md) | 30 Ağustos 2024   |                       |  3 dakika            |
 | [Hilt ile Dependency Injection](./Makaleler/Android/3%20Hilt%20ile%20Dependecy%20Injection/Makale.md)                                                                                               | 29 Ağustos 2024   |                       | 12 dakika            |
-| [Android’de KAPT ve KSP Arasındaki Farklar Nelerdir?](./Makaleler/Android/2%20Android’de%20KAPT%20ve%20KSP%20Arasındaki%20Farklar%20Nelerdir/Makale.md)                                             | 23 Ağustos 2024   |                       | 4 dakika             |
-| [Android Lint, Ktlint ve Detekt](./Makaleler/Android/1%20Android%20Lint,%20Ktlint%20ve%20Detekt/Makale.md)                                                                                          | 22 Ağustos 2024   |                       | 9 dakika             |
-
-
-
+| [Android’de KAPT ve KSP Arasındaki Farklar Nelerdir?](./Makaleler/Android/2%20Android’de%20KAPT%20ve%20KSP%20Arasındaki%20Farklar%20Nelerdir/Makale.md)                                             | 23 Ağustos 2024   |                       |  4 dakika            |
+| [Android Lint, Ktlint ve Detekt](./Makaleler/Android/1%20Android%20Lint,%20Ktlint%20ve%20Detekt/Makale.md)                                                                                          | 22 Ağustos 2024   |                       |  9 dakika            |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Kotlin
 
-| Makale Başlığı      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
-| ------------------- | ----------------- | --------------------- | -------------------- |
-|                     |                   |                       |                      |
+| Makale Başlığı                                                                                                                                                                                      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
+| [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024   |                       | 6 dakika             |
+| [Kotlin ve Null Safety](./Makaleler/Kotlin/1%20Kotlin%20ve%20Null%20Safety/Makale.md)                                                                                                               | 31 Ağustos 2024   |                       | 3 dakika             |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)

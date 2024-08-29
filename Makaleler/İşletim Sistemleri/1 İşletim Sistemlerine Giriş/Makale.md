@@ -340,6 +340,11 @@ CPU'nun kullanıcılar arasında kısa sürelerde paylaştırılıyor olmasıyla
 Sistemle, terminaller aracılığıyla iletişim kurulur. Kullanıcılara yalnızca sistemden siz faydalanıyorsunuz izlenimi verir.
 Kısa zaman aralarında işlemci, kullanıcılara sırayla dönerek atanır. İşletim, kullanıcın istediği bir zamanda terminal komutuyla kesilebilir.
 
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 

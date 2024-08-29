@@ -193,7 +193,10 @@ Yukarıda bahsettiğimiz `prompt chunking` maddesine tekrar bakacak olursak biz 
 o kadar artacak ve modelin yanıtını belirleme sırasında her bir token için ayrılan ağırlık değeri daha küçük olacak. Dolayısıyla model
 bize daha az doğru ya da daha az mantıklı bir tahminleme yapacak. Bu da uzun prompt'ların yanıtlarda daha az etkili olabileceği anlamına gelir.
 
-Umarım faydalı bir içerik olmuştur.
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
 
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)

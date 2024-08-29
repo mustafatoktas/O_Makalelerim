@@ -451,7 +451,11 @@ Bu örnekte `MyComposable` ve `MyComposableWithProduceState` aynı sonuçları v
 
 `LaunchedEffect`, `DisposableEffect` ve `SideEffect` Jetpack Compose'da farklı senaryolar için çeşitli yan etkileri yönetmenize olanak tanır. Asenkron işlemler, kaynak yönetimi ve UI dışı etkiler bu üç yapı ile kolaylıkla yönetilebilir. Compose'un yapısını bu etkilerle zenginleştirmek uygulamanızın etkileşimini ve kullanıcı deneyimini iyileştirecektir.
 
-Umarım faydalı olmuştur.
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 

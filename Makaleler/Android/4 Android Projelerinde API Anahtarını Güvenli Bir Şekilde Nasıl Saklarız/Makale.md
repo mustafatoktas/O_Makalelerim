@@ -173,6 +173,11 @@ Bu yöntemlerle projenizin güvenliğini artırabilir ve hassas bilgilerinizi ko
 önemli bir nokta `local.properties` dosyasının proje deposuna eklenmemesi ve paylaşılmamasıdır. Bu dosya yalnızca yerel
 geliştirme ortamınızda kullanılmalıdır.
 
+<br>
+
+Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
+ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 

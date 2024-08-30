@@ -59,7 +59,7 @@ ayrıcalıklarıyla çalıştırmayı denemek amacıyla tasarlanmıştır.
 
 ```kotlin
 var isRooted = false
-var process : process? = null
+var process : Process? = null
 try {
     process = Runtime.getRuntime().exec(command="su")
 

@@ -182,8 +182,7 @@ Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=vkazf89eqwm5pcn
-&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=n2ktyvc4qmea7jw&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
 
 <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
 

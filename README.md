@@ -12,7 +12,7 @@
 | [Android](#android)                         | 5             | [Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme](./Makaleler/Android/5%20Android%20Uygulamalara%20Root%20ve%20Emülatör%20Tespiti%20Kontrolü%20Ekleme/Makale.md)                      |  2 Eylül   2024 |
 | [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024 |
 | [Jetpack Compose](#jetpack-compose)         | 1             | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md)                                                           | 25 Ağustos 2024 |
-| [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C#/1%20C#%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                                     | 28 Ağustos 2024 |
+| [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                           | 28 Ağustos 2024 |
 | [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                                                                         | 24 Ağustos 2024 |
 | [Teknoloji](#teknoloji)                     | 0             |                                                                                                                                                                                                     |                 |
 | [Teknoloji ve Toplum](#teknoloji-ve-toplum) | 1             | [Toplum 5.0 ve Yeni Dünya Düzeni](./Makaleler/Toplum%20ve%20Teknoloji/1%20Toplum%205.0%20ve%20Yeni%20Dünya%20Düzeni/Makale.md)                                                                      | 26 Ağustos 2024 |
@@ -66,7 +66,7 @@
 
 | Makale Başlığı                                                                                                                            | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
-| [C# Thread ve Task Kullanımı](./Makaleler/C#/1%20C#%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                           | 28 Ağustos 2024   |                       | 4 dakika             |                                                                                                               |                   |                       |                      |
+| [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                 | 28 Ağustos 2024   |                       | 4 dakika             |                                                                                                               |                   |                       |                      |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)

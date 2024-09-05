@@ -197,11 +197,7 @@ Desteğiniz daha fazla kaliteli içerik üretmem konusunda motivasyonumu arttır
 
 <br>
 
-<div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
-</div>
-
-<br>
+<a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
 
 Android ile ilgili daha fazla makale okumak isterseniz <a href="https://github.com/mustafatoktas/O_Makalelerim?tab=readme-ov-file#android">buraya tıklayarak</a> göz atabilirsiniz.
 </div>
@@ -209,7 +205,7 @@ Android ile ilgili daha fazla makale okumak isterseniz <a href="https://github.c
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=m4gpavs73uwbchk&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=m4gpavs73uwbchk&show_repo_name=0&show_date=1&show_brand=0" alt="Article Reader Counter"/> </a>
 </div>
 
 

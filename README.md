@@ -1,15 +1,17 @@
+<a name="readme-top"></a>
+
 <h1 align="center">Makalelerim</h1>
 
 <div align="center">
   <img src="./Readme Resources/Makalelerim Logo.png" alt="Logo" width="120"/>
 </div>
 
-## **Kategoriler**
+## Kategoriler
 
 | Kategori Adı                                | Makale Sayısı | Kategoriye Eklenen Son Makale                                                                                                                                                                       | Tarih           |
 | ------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Yazılım](#yazılım)                         | 2             | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md)                                                                                                         | 27 Ağustos 2024 |
-| [Android](#android)                         | 5             | [Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme](./Makaleler/Android/5%20Android%20Uygulamalara%20Root%20ve%20Emülatör%20Tespiti%20Kontrolü%20Ekleme/Makale.md)                      |  2 Eylül   2024 |
+| [Android](#android)                         | 6             | [Android'de UseCase Kullanımı ve Dikkat Edilmesi Gerekenler](./Makaleler/Android/6%20Android'de%20UseCase%20Kullanımı%20ve%20Dikkat%20Edilmesi%20Gerekenler/Makale.md)                              |  5 Eylül   2024 |
 | [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024 |
 | [Jetpack Compose](#jetpack-compose)         | 1             | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md)                                                           | 25 Ağustos 2024 |
 | [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                           | 28 Ağustos 2024 |
@@ -30,10 +32,13 @@
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+<a name="android-top"></a>
+
 ## Android 
 
 | Makale Başlığı                                                                                                                                                                                      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
+| [Android'de UseCase Kullanımı ve Dikkat Edilmesi Gerekenler](./Makaleler/Android/6%20Android'de%20UseCase%20Kullanımı%20ve%20Dikkat%20Edilmesi%20Gerekenler/Makale.md)                              |  5 Eylül   2024   |                       |  3 dakika            |
 | [Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme](./Makaleler/Android/5%20Android%20Uygulamalara%20Root%20ve%20Emülatör%20Tespiti%20Kontrolü%20Ekleme/Makale.md)                      |  2 Eylül   2024   |                       |  4 dakika            |
 | [Android Projelerinde API Anahtarını Güvenli Bir Şekilde Nasıl Saklarız?](./Makaleler/Android/4%20Android%20Projelerinde%20API%20Anahtarını%20Güvenli%20Bir%20Şekilde%20Nasıl%20Saklarız/Makale.md) | 30 Ağustos 2024   |                       |  3 dakika            |
 | [Hilt ile Dependency Injection](./Makaleler/Android/3%20Hilt%20ile%20Dependecy%20Injection/Makale.md)                                                                                               | 29 Ağustos 2024   |                       | 12 dakika            |
@@ -131,3 +136,7 @@ limitations under the License.
 <a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
 <a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
+
+<p align="center">
+  ( <a href="#readme-top">Back to Top</a> )
+</p>

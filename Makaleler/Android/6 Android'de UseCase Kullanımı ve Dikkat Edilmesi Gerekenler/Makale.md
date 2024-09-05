@@ -5,9 +5,9 @@
 ## İçindekiler
 
 - [UseCase nedir?](#usecase-nedir)
-- [Neden kullanmaya ihtiyaç duyarız ve her projede kullanmalı mıyız?](#neden-kullanmaya-ihtiyaç-duyarız-ve-her-projede-kullanmalı-mıyız)
-- [UseCase'ler nasıl isimlendirilmelidir?](#usecaseler-nasıl-isimlendirilmelidir)
-- [UseCase'leri kodlarken dikkat edilmesi gerekenler](#usecaseleri-kodlarken-dikkat-edilmesi-gerekenler)
+- [Neden Kullanmaya İhtiyaç Duyarız ve Her Projede Kullanmalı mıyız?](#neden-kullanmaya-i̇htiyaç-duyarız-ve-her-projede-kullanmalı-mıyız)
+- [UseCase'ler Nasıl İsimlendirilmelidir?](#usecaseler-nasıl-i̇simlendirilmelidir)
+- [UseCase'leri Kodlarken Dikkat Edilmesi Gerekenler](#usecaseleri-kodlarken-dikkat-edilmesi-gerekenler)
 - [Kod Örnekleri ](#kod-örnekleri)
 
 <br>
@@ -30,23 +30,21 @@
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-## UseCase nedir?
+## UseCase Nedir?
 
 Android'de UseCase, uygulamanın business logic'ini UI ve data katmanlarından ayıran domain katmanında
 bulunan belirli bir işlemi temsil eden bir sınıftır.
 
-<br>
-
-UseCase'i daha iyi anlamak için data, domain ve ui katmanlarını kısaca inceleyelim.
+UseCase'i daha iyi anlamak için `data` `domain` `UI` katmanlarını kısaca inceleyelim.
 
 <div align="center">
-  <img src="./Resources/1.webp" alt="Resima"/>
+  <img src="./Resources/1.webp" alt="Resim" width="450"/>
 </div>
 
 ### Data Katmanı
 
-Data katmanı, business logic içeren kısımdır. Network işlemleri ve local database işlemleri burada yapılır.
-Repository ve datasource'dan oluşur. Datasource'lar local database, network, cache veya sensörlerden veriyi
+Data katmanı, `business logic` içeren kısımdır. **Network işlemleri** ve **local database** işlemleri burada yapılır.
+**Repository** ve **datasource**'dan oluşur. Datasource'lar local database, network, cache veya sensörlerden veriyi
 alan kısımdır. Repository'ler bu veri kaynaklarını ihtiyaca göre yönetir. Bir repository hem local hem de network işlemlerini yapabilir.
 
 **Data source kod örneği:**
@@ -84,24 +82,27 @@ class CryptoRepoImpl @Inject constructor(private val api : CryptoApi)  : CryptoR
 
 ### UI Katmanı
 
-Presentation katmanı olarak da isimlendirilebilir. View veya Jetpack Compose ile yazdığımız tasarım kodlarını içerir.
-ViewModel'ler de bu katmanda bulunur.
+Presentation katmanı olarak da isimlendirilebilir. View veya Jetpack Compose ile yazdığımız `tasarım kodlarını` içerir.
+ViewModel'lar da bu katmanda bulunur.
 
 ### Domain Katmanı
 
-Opsiyonel bir katmandır. İhtiyaç varsa oluşturulmalıdır. UseCase'ler bu katmanda bulunur. UI ile data katmanı arasında bağlantıdır.
+Opsiyonel bir katmandır. İhtiyaç varsa oluşturulmalıdır. UseCase'ler bu katmanda bulunur. `UI` ile `data` katmanı arasında bağlantıdır.
 
+<div align="center">
+  <img src="./Resources/2.webp" alt="Resim" width="450"/>
+</div>
 
-## Neden kullanmaya ihtiyaç duyarız ve her projede kullanmalı mıyız?
+## Neden Kullanmaya İhtiyaç Duyarız ve Her Projede Kullanmalı mıyız?
 
-UseCase'ler küçük projelerde çok önemli olmasa da büyük projelerde hayati öneme sahiptir. Örneğin, büyük bir uygulamamız var ve
-uzak sunuculardan veri çekiyoruz. Çektiğimiz bu veriyi 10 ayrı sayfada göstereceğiz. Tek tek her ViewModel'de aynı kodla repository'den
-alıp kod tekrarına düşmek yerine bir UseCase yazarız ve Hilt ile ihtiyacı olan bütün ViewModellere verip tek bir class ile işimizi hallederiz.
-Bu, kodun daha parçalı, düzenli ve test edilebilir bir hale gelmesini sağlar.
+UseCase'ler küçük projelerde çok önemli olmasa da büyük projelerde **hayati öneme** sahiptir. Örneğin büyük bir uygulamamız var ve
+uzak sunuculardan veri çekiyoruz. Çektiğimiz bu veriyi 10 ayrı sayfada göstereceğiz. Tek tek her ViewModel'da aynı kodla repository'den
+alıp kod tekrarına düşmek yerine bir UseCase yazarız ve `Hilt` ile ihtiyacı olan bütün ViewModellere verip tek bir class ile işimizi hallederiz.
+Bu, kodun daha `parçalı` `düzenli` `test edilebilir` bir hale gelmesini sağlar.
 
-## UseCase'ler nasıl isimlendirilmelidir?
+## UseCase'ler Nasıl İsimlendirilmelidir?
 
-Fiil + isim + UseCase formatında isimlendirilmelidir.
+`Fiil` + `isim` + `UseCase` formatında isimlendirilmelidir.
 
 **Örnekler:**
 
@@ -110,7 +111,7 @@ Fiil + isim + UseCase formatında isimlendirilmelidir.
 - GetLatestNewsWithAuthorsUseCase
 - MakeLoginRequestUseCase
 
-## UseCase'leri kodlarken dikkat edilmesi gerekenler
+## UseCase'leri Kodlarken Dikkat Edilmesi Gerekenler
 
 1. **Single Responsibility İlkesinin İhlali**
 
@@ -118,7 +119,7 @@ Fiil + isim + UseCase formatında isimlendirilmelidir.
 
 2. **UseCase İçinde Bağımlılıkları Doğrudan Oluşturmak**
 
-   Bağımlılıkları doğrudan oluşturmak yerine dependency injection ile constructor’da gerekli parametreler verilmelidir.
+   Bağımlılıkları doğrudan oluşturmak yerine dependency injection ile constructor'da gerekli parametreler verilmelidir.
 
 3. **Uygun Dispatcher Kullanmamak**
 
@@ -130,12 +131,12 @@ Fiil + isim + UseCase formatında isimlendirilmelidir.
 
 5. **Doğrudan UI ile veya Database ile İletişime Geçme**
 
-   Doğrudan iletişime geçilmemelidir. ViewModeller ve repository'ler kullanarak iletişim sağlanmalıdır.
+   Doğrudan iletişime geçilmemelidir. ViewModel'lar ve repository'ler kullanarak iletişim sağlanmalıdır.
 
 
 ## Kod Örnekleri 
 
-Bildiğiniz üzere, UseCase'ler data ve UI katmanları arasında bulunur ve bunlar arasında bağlantı kurar. Bu bağlantıyı sağlamak için
+Bildiğiniz üzere UseCase'ler data ve UI katmanları arasında bulunur ve bunlar arasında bağlantı kurar. Bu bağlantıyı sağlamak için
 verileri almak için bir repository sınıfına ihtiyaç duyarlar ve bu verileri aktarmak için de ViewModel'lere ihtiyaçları vardır.
 
 ```kotlin
@@ -161,10 +162,10 @@ class SaveFavUseCase @Inject constructor(
 
 <br>
 
-Burda görüldüğü üzere favorileri kaydeden bir UseCase var. CryptoFavRepo adında bir repository'nin nesnesini parametre
+Burda görüldüğü üzere favorileri kaydeden bir UseCase var. `CryptoFavRepo` adında bir repository'nin nesnesini parametre
 olarak alıyor ve ilgili fonksiyonu çağırıyor.
 
-Şimdi viewmodel tarafında nasıl çağırıldığına bakalım:
+Şimdi viewmodel tarafında nasıl çağırıldığına bakalım.
 
 ```kotlin
 @HiltViewModel
@@ -184,19 +185,32 @@ class DetailViewModel @Inject constructor(
 }
 ```
 
+<br>
+
 Viewmodel tarafında da görüldüğü üzere viewmodel useCase'in nesnesini parametre olarak alıyor ve çağırıyor.
 
 <br>
 
-Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
-ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
+<div align="center">
+İçeriğim hoşunuza gittiyse bana destek olmak için beni takip edebilir veya bir kahve ısmarlayabilirsiniz.
+Desteğiniz daha fazla kaliteli içerik üretmem konusunda motivasyonumu arttırıyor.
 
+<br>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+</div>
+
+<br>
+
+Android ile ilgili daha fazla makale okumak isterseniz <a href="https://github.com/mustafatoktas/O_Makalelerim?tab=readme-ov-file#android">buraya tıklayarak</a> göz atabilirsiniz.
+</div>
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
-<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
-
-<a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+<div align="center">
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=m4gpavs73uwbchk&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+</div>
 
 
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
@@ -208,5 +222,5 @@ Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./../../../Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
 
 <p align="center">
-  ( <a href="#makale-top">Back to Top</a> )
+  <a href="#makale-top"> <img src="./../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
 </p>

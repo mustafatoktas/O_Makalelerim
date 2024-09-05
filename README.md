@@ -83,9 +83,11 @@
 
 <div align="center">
   <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+</div>
 
-  </br>
-
+  <br>
+  
+<div align="center">
   <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
 </div>
 

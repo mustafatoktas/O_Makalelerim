@@ -1,8 +1,10 @@
-# Jetpack Compose'da Scaffold Kullanımı
+<h1 align="center">
+  Jetpack Compose'da Scaffold Kullanımı <a name="article-top"></a>
+</h1>
 
 ## İçindekiler
 
-- [Scaffold Nedir ?](#scaffold-nedir)
+- [Scaffold Nedir ?](#scaffold-nedir-)
 - [Scaffold Bileşenleri](#scaffold-bileşenleri)
 - [Scaffold Kullanmanın Avantajları](#scaffold-kullanmanın-avantajları)
 
@@ -314,5 +316,5 @@ Jetpack Compose ile ilgili daha fazla makale okumak isterseniz <a href="https://
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./../../../Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
 
 <p align="center">
-  <a href="#jetpack-composeda-scaffold-kullanımı"> <img src="./../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
+  <a href="#article-top"> <img src="./../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
 </p>

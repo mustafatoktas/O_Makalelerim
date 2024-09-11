@@ -4,7 +4,7 @@
 
 ## İçindekiler
 
-- [Scaffold Nedir ?](#scaffold-nedir-)
+- [Scaffold Nedir?](#scaffold-nedir)
 - [Scaffold Bileşenleri](#scaffold-bileşenleri)
 - [Scaffold Kullanmanın Avantajları](#scaffold-kullanmanın-avantajları)
 
@@ -32,7 +32,7 @@
   <img src="./Resources/1.webp" alt="Resim"/>
 </div>
 
-## Scaffold Nedir ?
+## Scaffold Nedir?
 
 `Scaffold` uygulamanızın ana düzenini yönetmenizi sağlar. Bu bileşen çeşitli bölümlerden oluşur ve her bir bölüm belirli bir işlevi
 yerine getirir. Scaffold'u `uygulamanın iskeleti` olarak düşünebilirsiniz. Bu iskelet üzerinde farklı bileşenler yerleştirilir.

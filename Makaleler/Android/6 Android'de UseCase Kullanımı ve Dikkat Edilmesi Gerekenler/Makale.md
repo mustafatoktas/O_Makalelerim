@@ -1,5 +1,3 @@
-<a name="makale-top"></a>
-
 # Android'de UseCase Kullanımı ve Dikkat Edilmesi Gerekenler
 
 ## İçindekiler
@@ -212,7 +210,7 @@ Android ile ilgili daha fazla makale okumak isterseniz <a href="https://github.c
 ![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=m4gpavs73uwbchk&show_date=1&show_brand=0" alt="Article Reader Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=m4gpavs73uwbchk&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Article Reader Counter"/> </a>
 </div>
 
 
@@ -225,5 +223,5 @@ Android ile ilgili daha fazla makale okumak isterseniz <a href="https://github.c
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./../../../Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
 
 <p align="center">
-  <a href="#makale-top"> <img src="./../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
+  <a href="#androidde-usecase-kullanımı-ve-dikkat-edilmesi-gerekenler"> <img src="./../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
 </p>

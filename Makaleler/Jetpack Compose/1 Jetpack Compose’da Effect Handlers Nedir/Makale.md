@@ -1,4 +1,4 @@
-# Jetpack Compose’da Effect Handlers Nedir?
+# Jetpack Compose'da Effect Handlers Nedir?
 
 ## **İçindekiler**
 

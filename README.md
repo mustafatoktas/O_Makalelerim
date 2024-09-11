@@ -1,6 +1,4 @@
-<a name="readme-top"></a>
-
-<h1 align="center">Makalelerim</h1>
+<a name="readme-top"></a> <h1 align="center">Makalelerim</h1>
 
 <div align="center">
   <img src="./Readme Resources/Makalelerim Logo.png" alt="Logo" width="120"/>
@@ -13,7 +11,7 @@
 | [Yazılım](#yazılım)                         | 2             | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md)                                                                                                         | 27 Ağustos 2024   |
 | [Android](#android)                         | 6             | [Android'de UseCase Kullanımı ve Dikkat Edilmesi Gerekenler](./Makaleler/Android/6%20Android'de%20UseCase%20Kullanımı%20ve%20Dikkat%20Edilmesi%20Gerekenler/Makale.md)                              |  5 Eylül   2024   |
 | [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024   |
-| [Jetpack Compose](#jetpack-compose)         | 1             | [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md)                                                           | 25 Ağustos 2024   |
+| [Jetpack Compose](#jetpack-compose)         | 2             | [Jetpack Compose'da Scaffold Kullanımı](./Makaleler/Jetpack%20Compose/2%20Jetpack%20Compose’da%20Scaffold%20Kullanımı/Makale.md)                                                                    |  7 Eylül   2024   |
 | [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                           | 28 Ağustos 2024   |
 | [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                                                                         | 24 Ağustos 2024   |
 
@@ -58,7 +56,8 @@
 
 | Makale Başlığı                                                                                                                            | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
-| [Jetpack Compose’da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md) | 25 Ağustos 2024   |                       | 7 dakika             |
+| [Jetpack Compose'da Scaffold Kullanımı](./Makaleler/Jetpack%20Compose/2%20Jetpack%20Compose’da%20Scaffold%20Kullanımı/Makale.md)          |  7 Eylül   2024   |                       | 6 dakika             |
+| [Jetpack Compose'da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md) | 25 Ağustos 2024   |                       | 7 dakika             |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
@@ -82,7 +81,7 @@
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
 </div>
 
   <br>

@@ -10,7 +10,7 @@
 
 | Kategori Adı                                | Makale Sayısı | Kategoriye Eklenen Son Makale                                                                                                                                                                       | Yayınlanma Tarihi |
 | ------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Yazılım](#yazılım)                         | 2             | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md)                                                                                                         | 27 Ağustos 2024   |
+| [Yazılım](#yazılım)                         | 3             | [Solid Prensipleri](./Makaleler/Yazılım/3%20Solid%20Prensipleri/Makale.md)                                                                                                                          | 11 Eylül   2024   |
 | [Android](#android)                         | 7             | [Memory Leak ve LeakCanary Kullanımı](./Makaleler/Android/7%20Memory%20Leak%20ve%20LeakCanary%20kullanımı/Makale.md)                                                                                |  9 Eylül   2024   |
 | [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024   |
 | [Jetpack Compose](#jetpack-compose)         | 2             | [Jetpack Compose'da Scaffold Kullanımı](./Makaleler/Jetpack%20Compose/2%20Jetpack%20Compose’da%20Scaffold%20Kullanımı/Makale.md)                                                                    |  7 Eylül   2024   |
@@ -24,6 +24,7 @@
 
 | Makale Başlığı                                                                              | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | ------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
+| [Solid Prensipleri](./Makaleler/Yazılım/3%20Solid%20Prensipleri/Makale.md)                  | 11 Eylül   2024   |                       | 4 dakika             |
 | [Prompt Engineering Nedir?](./Makaleler/Yazılım/2%20Prompt%20Engineering%20Nedir/Makale.md) | 27 Ağustos 2024   |                       | 7 dakika             |
 | [JVM, JRE ve JDK Nedir?](./Makaleler/Yazılım/1%20JVM,%20JRE%20ve%20JDK%20Nedir/Makale.md)   | 27 Ağustos 2024   |                       | 2 dakika             |
 

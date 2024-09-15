@@ -38,28 +38,28 @@ Android R8 ve Kod Optimizasyonu<a name="article-top"></a>
 <br>
 
 Android geliştirme dünyasında uygulamaların `boyutu` `performansı` `güvenliği` her zaman öncelikli konular arasında yer almıştır.
-Bu bağlamda Android R8, geliştiricilere büyük kolaylık sağlayan bir araç olarak öne çıkıyor.
+Bu bağlamda Android R8 geliştiricilere büyük kolaylık sağlayan bir araç olarak öne çıkıyor.
 R8, Java bytecode'u optimize edilmiş DEX koduna çeviren bir derleyici olup kodunuzu `küçültme` `optimize etme` `gizliliğini koruma`
-görevlerini yerine getirir. Bu makalede, R8'in sunduğu avantajları ve neden bu kadar önemli bir araç olduğunu detaylı bir şekilde ele alacağız.
+görevlerini yerine getirir. Bu makalede R8'in sunduğu avantajları ve neden bu kadar önemli bir araç olduğunu detaylı bir şekilde ele alacağız.
 
 
 ## R8 Nedir?
 
 Android R8, Java bytecode'unu optimize edilmiş `Dalvik Executable` **(DEX)** koduna dönüştüren bir derleyicidir.
 Uygulamanızın verimliliğini ve güvenliğini artırmak için kodunuzu optimize eder, küçültür ve karmaşıklaştırır.
-Bu süreç uygulamanızın çalışma zamanında daha hızlı çalışmasına, boyutunun azalmasına ve tersine mühendislik girişimlerine karşı daha korunaklı olmasına yardımcı olur​
+Bu süreç uygulamanızın çalışma zamanında daha hızlı çalışmasına, boyutunun azalmasına ve tersine mühendislik girişimlerine karşı daha korunaklı olmasına yardımcı olur​.
 
 <br>
 
 R8'in temel amaçlarından biri kodun yetkisiz kişiler tarafından deşifre edilmesini zorlaştırmaktır. Bu, özellikle mobil uygulama geliştiricileri
-için oldukça kritik bir konudur. R8, `sınıf adlarını` `metodları` `değişkenleri` karmaşık hale getirerek kodunuzun anlaşılmasını ve geri mühendislik
+için oldukça kritik bir konudur. R8 `sınıf adlarını` `metodları` `değişkenleri` karmaşık hale getirerek kodunuzun anlaşılmasını ve geri mühendislik
 ile çözülmesini zorlaştırır. Bu durum uygulama güvenliği için büyük bir avantajdır.
 
 ## R8 ve ProGuard Arasındaki Farklar
 
 Android'de R8'den önce kullanılan ProGuard, kod küçültme ve gizleme işlemlerinde yaygın olarak kullanılan bir araçtı. Ancak ProGuard,
 bytecode'u optimize ettikten sonra bunu DEX formatına çevirmek için ek adımlar gerektiriyordu. Bu da bazı durumlarda süreci uzatıyordu.
-R8, bu adımları daha verimli hale getirerek doğrudan Java bytecode'unu optimize edilmiş DEX koduna dönüştürür ve süreçteki adım sayısını azaltır.
+R8 bu adımları daha verimli hale getirerek doğrudan Java bytecode'unu optimize edilmiş DEX koduna dönüştürür ve süreçteki adım sayısını azaltır.
 Bu da hem hız hem de verimlilik açısından önemli bir gelişmedir​.
 
 <div align="center">
@@ -100,7 +100,7 @@ R8 iki ana modda çalışabilir: `Uyumluluk modu` ve `Tam mod`.
 
 - **Tam Mod**
 
-  Android Gradle plugin 8.0 ile birlikte gelen bu mod, daha agresif optimizasyonlar yapar. Bu modda bazı ek ProGuard yapılandırma
+  Android Gradle plugin 8.0 ile birlikte gelen bu mod daha agresif optimizasyonlar yapar. Bu modda bazı ek ProGuard yapılandırma
   kurallarına ihtiyaç duyabilirsiniz. Ancak bu mod uygulamanızın performansını ve boyutunu optimize etmek için oldukça etkilidir​.
 
 

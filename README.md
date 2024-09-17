@@ -1,5 +1,5 @@
 <h1 align="center">
-  Makalelerim <a name="readme-top"></a>
+Makalelerim<a name="readme-top"></a>
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 | ------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [Yazılım](#yazılım)                         | 3             | [Solid Prensipleri](./Makaleler/Yazılım/3%20Solid%20Prensipleri/Makale.md)                                                                                                                          | 11 Eylül   2024   |
 | [Android](#android)                         | 8             | [Android R8 ve Kod Optimizasyonu](./Makaleler/Android/8%20Android%20R8%20ve%20Kod%20Optimizasyonu/Makale.md)                                                                                        | 15 Eylül   2024   |
-| [Kotlin](#kotlin)                           | 2             | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024   |
+| [Kotlin](#kotlin)                           | 3             | [Kotlin'de Kanal](./Makaleler/Kotlin/3%20Kotlin'de%20Kanal/Makale.md)                                                                                                                               | 17 Eylül   2024   |
 | [Jetpack Compose](#jetpack-compose)         | 2             | [Jetpack Compose'da Scaffold Kullanımı](./Makaleler/Jetpack%20Compose/2%20Jetpack%20Compose’da%20Scaffold%20Kullanımı/Makale.md)                                                                    |  7 Eylül   2024   |
 | [C#](#c)                                    | 1             | [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                                                                           | 28 Ağustos 2024   |
 | [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                                                                         | 24 Ağustos 2024   |
@@ -51,6 +51,7 @@
 
 | Makale Başlığı                                                                                                                                                                                      | Yayınlanma Tarihi | Son Güncelleme Tarihi | Tahmini Okuma Süresi |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- |
+| [Kotlin'de Kanal](./Makaleler/Kotlin/3%20Kotlin'de%20Kanal/Makale.md)                                                                                                                               | 17 Eylül   2024   |                       | 4 dakika             |
 | [Kotlin'de Higher-Order Fonksiyonlar Nedir?](./Makaleler/Kotlin/2%20%20Kotlin'de%20Higher-Order%20Fonksiyonlar%20Nedir/Makale.md)                                                                   |  1 Eylül   2024   |                       | 6 dakika             |
 | [Kotlin ve Null Safety](./Makaleler/Kotlin/1%20Kotlin%20ve%20Null%20Safety/Makale.md)                                                                                                               | 31 Ağustos 2024   |                       | 3 dakika             |
 
@@ -86,7 +87,7 @@
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
 </div>
 
   <br>

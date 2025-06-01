@@ -18,7 +18,7 @@ Makalelerim<a name="readme-top"></a>
 | [İşletim Sistemleri](#i̇şletim-sistemleri)   | 1             | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md)                                                                                         | 24 Ağustos 2024   |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Yazılım 
 
@@ -29,7 +29,7 @@ Makalelerim<a name="readme-top"></a>
 | [JVM, JRE ve JDK Nedir?](./Makaleler/Yazılım/1%20JVM,%20JRE%20ve%20JDK%20Nedir/Makale.md)   | 27 Ağustos 2024   |                       | 2 dakika             |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Android 
 
@@ -45,7 +45,7 @@ Makalelerim<a name="readme-top"></a>
 | [Android Lint, Ktlint ve Detekt](./Makaleler/Android/1%20Android%20Lint,%20Ktlint%20ve%20Detekt/Makale.md)                                                                                          | 22 Ağustos 2024   |                       |  9 dakika            |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Kotlin
 
@@ -56,7 +56,7 @@ Makalelerim<a name="readme-top"></a>
 | [Kotlin ve Null Safety](./Makaleler/Kotlin/1%20Kotlin%20ve%20Null%20Safety/Makale.md)                                                                                                               | 31 Ağustos 2024   |                       | 3 dakika             |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Jetpack Compose
 
@@ -66,7 +66,7 @@ Makalelerim<a name="readme-top"></a>
 | [Jetpack Compose'da Effect Handlers Nedir?](./Makaleler/Jetpack%20Compose/1%20Jetpack%20Compose’da%20Effect%20Handlers%20Nedir/Makale.md) | 25 Ağustos 2024   |                       | 7 dakika             |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## C#
 
@@ -75,7 +75,7 @@ Makalelerim<a name="readme-top"></a>
 | [C# Thread ve Task Kullanımı](./Makaleler/C-Sharp/1%20C-Sharp%20Thread%20ve%20Task%20Kullanımı/Makale.md)                                 | 28 Ağustos 2024   |                       | 4 dakika             |                                                                                                               |                   |                       |                      |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## İşletim Sistemleri
 
@@ -84,25 +84,25 @@ Makalelerim<a name="readme-top"></a>
 | [İşletim Sistemlerine Giriş](./Makaleler/İşletim%20Sistemleri/1%20İşletim%20Sistemlerine%20Giriş/Makale.md) | 24 Ağustos 2024   |                       | 8 dakika             |
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=gfs4maubzr5wyh7&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
 </div>
 
-  <br>
+<br>
   
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="./Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Lisans
 
 ```
-Copyright 2024 Mustafa TOKTAŞ
+Copyright 2024-2025 Mustafa TOKTAŞ
 
 Licensed under the GNU General Public License v3.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -118,14 +118,14 @@ limitations under the License.
 ```
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
-<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="./Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="./Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="./Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
-<p align="center">
-  <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
-</p>
+<div align="center">
+  <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>

@@ -11,21 +11,21 @@
 
 <table>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Yayınlanma Tarihi</th>
-    <td style="text-align: left;">22 Ağustos 2024</td>
+    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <td>22 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Son Güncelleme Tarihi</th>
-    <td style="text-align: left;"></td>
+    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <td></td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Tahmini Okuma Süresi</th>
-    <td style="text-align: left;">9 dakika</td>
+    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <td>9 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
 
 Bu yazımda Lint üzerine detaylı bir inceleme yapacağız. Sonrasında ise sektörde kullanılan iki
 kütüphaneyi inceliyor olacağız.
@@ -35,7 +35,6 @@ kütüphaneyi inceliyor olacağız.
 </div>
 
 <br>
-
 
 ## Android Lint
 
@@ -743,17 +742,14 @@ Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim
 ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
-
-<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=7rwpkyfnj5ugt94&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
-
-<a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./../../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
-
-
-![-----------------------------------------------------](../../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./../../../Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
-<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./../../../Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./../../../Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+
+<div align="center">
+  <a href="#android-lint-ktlint-ve-detekt"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>

@@ -1,6 +1,6 @@
 # Android Projelerinde API Anahtarını Güvenli Bir Şekilde Nasıl Saklarız?
 
-## **İçindekiler**
+## İçindekiler
 
 - [local.properties Dosyasını Oluşturma](#localproperties-dosyasını-oluşturma)
 - [API Anahtarını Gradle İle Yükleme](#api-anahtarını-gradle-i̇le-yükleme)
@@ -11,21 +11,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>30 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>3 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 <div align="center">
   <img src="./Resources/1.webp" alt="API Anahtarlarımız Koruma"/>
@@ -48,6 +48,7 @@ kök dizininde bulunur ve hassas verileri saklamak için ideal bir yerdir.
 ```
 API_KEY=your_api_key_here
 ```
+
 
 ## API Anahtarını Gradle İle Yükleme
 
@@ -173,19 +174,14 @@ Bu yöntemlerle projenizin güvenliğini artırabilir ve hassas bilgilerinizi ko
 önemli bir nokta `local.properties` dosyasının proje deposuna eklenmemesi ve paylaşılmamasıdır. Bu dosya yalnızca yerel
 geliştirme ortamınızda kullanılmalıdır.
 
-<br>
 
-Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
-ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
-
-
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#android-projelerinde-api-anahtarını-güvenli-bir-şekilde-nasıl-saklarız"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

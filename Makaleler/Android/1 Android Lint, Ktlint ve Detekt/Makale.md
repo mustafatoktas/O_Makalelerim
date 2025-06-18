@@ -1,6 +1,6 @@
 # Android Lint, Ktlint ve Detekt
 
-## **İçindekiler**
+## İçindekiler
 
 - [Android Lint](#android-lint)
 - [Ktlint](#ktlint)
@@ -11,21 +11,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>22 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>9 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 Bu yazımda Lint üzerine detaylı bir inceleme yapacağız. Sonrasında ise sektörde kullanılan iki
 kütüphaneyi inceliyor olacağız.
@@ -736,19 +736,14 @@ derlenme süresine sahiptir. Bunun sebebi geniş bir kural setine sahip olmasıd
 İncelemelerim sırasında daha büyük ve kapsamlı projelerde detekt, daha orta ve minimal düzeydeki projelerde Ktlint kullanıldığı bilgisine ulaştım.
 Bunun tabii ki projeden projeye değişeceği de bir gerçek.
 
-<br>
 
-Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
-ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
-
-
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#android-lint-ktlint-ve-detekt"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

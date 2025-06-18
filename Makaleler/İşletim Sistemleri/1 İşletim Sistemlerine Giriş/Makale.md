@@ -1,6 +1,6 @@
 # İşletim Sistemlerine Giriş
 
-## **İçindekiler**
+## İçindekiler
 
 - [İşletim Sistemi Nedir?](#i̇şletim-sistemi-nedir)
 - [İşletim Sisteminin Bilgisayar Mimarisindeki Yeri](#i̇şletim-sisteminin-bilgisayar-mimarisindeki-yeri)
@@ -14,21 +14,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>24 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>8 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İşletim Sistemi Nedir ?
 
@@ -341,20 +341,20 @@ Sistemle, terminaller aracılığıyla iletişim kurulur. Kullanıcılara yalnı
 Kısa zaman aralarında işlemci, kullanıcılara sırayla dönerek atanır. İşletim, kullanıcın istediği bir zamanda terminal komutuyla kesilebilir.
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## Kaynakça
 
 - <a href="https://www.btkakademi.gov.tr/portal/course/isletim-sistemlerine-giris-17624">İşletim Sistemlerine Giriş (btkakademi.gov.tr)</a>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#i̇şletim-sistemlerine-giriş"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

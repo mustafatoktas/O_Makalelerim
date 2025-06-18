@@ -1,5 +1,5 @@
 <h1 align="center">
- Jetpack Compose'da Scaffold Kullanımı<a name="article-top"></a>
+Jetpack Compose'da Scaffold Kullanımı<a name="header-top"></a>
 </h1>
 
 ## İçindekiler
@@ -12,21 +12,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>7 Eylül 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>6 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 <div align="center">
   <img src="./Resources/1.webp" alt="Resim"/>
@@ -290,7 +290,7 @@ Desteğiniz daha fazla kaliteli içerik üretmem konusunda motivasyonumu arttır
 <br>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../../Readme Resources/Contact/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 <br>
@@ -300,14 +300,14 @@ Jetpack Compose ile ilgili daha fazla makale okumak isterseniz <a href="https://
 </div>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
-  <a href="#article-top"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+  <a href="#header-top"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
 </div>

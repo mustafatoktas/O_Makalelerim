@@ -1,6 +1,6 @@
 # Jetpack Compose'da Effect Handlers Nedir?
 
-## **İçindekiler**
+## İçindekiler
 
 - [Effect Handlers Nedir?](#effect-handlers-nedir)
 - [Side Effect Nedir?](#side-effect-nedir)
@@ -17,21 +17,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>25 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>7 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 <div align="center">
   <img src="./Resources/1.webp" alt="Effect Handlers"/>
@@ -452,13 +452,13 @@ Bu örnekte `MyComposable` ve `MyComposableWithProduceState` aynı sonuçları v
 `LaunchedEffect`, `DisposableEffect` ve `SideEffect` Jetpack Compose'da farklı senaryolar için çeşitli yan etkileri yönetmenize olanak tanır. Asenkron işlemler, kaynak yönetimi ve UI dışı etkiler bu üç yapı ile kolaylıkla yönetilebilir. Compose'un yapısını bu etkilerle zenginleştirmek uygulamanızın etkileşimini ve kullanıcı deneyimini iyileştirecektir.
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#jetpack-composeda-effect-handlers-nedir"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

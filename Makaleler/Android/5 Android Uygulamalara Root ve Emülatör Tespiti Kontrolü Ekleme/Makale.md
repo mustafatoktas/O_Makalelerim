@@ -1,6 +1,6 @@
 # Android Uygulamalara Root ve Emülatör Tespiti Kontrolü Ekleme
 
-## **İçindekiler**
+## İçindekiler
 
 - [Root Tespiti](#root-tespiti)
 - [Emülatör Tespiti](#emülatör-tespiti)
@@ -9,21 +9,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>2 Eylül 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>4 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 Android uygulama geliştirme dünyasında güvenlik oldukça önemlidir. Uygulamanızın güvenli bir ortamda çalışmasını sağlamak ve kötü niyetli
 kullanıcıların uygulamanızı rootlanmış cihazlarda ve emülatörlerde çalıştırmasını önlemek esastır. Bu makale Android uygulamanıza root ve emülatör
@@ -174,19 +174,14 @@ Bu kontrollerin faydalı olmasına rağmen tamamen hatasız olmadığını unutm
 Son olarak potansiyel güvenlik risklerinin önüne geçmek ve güvenli ve güvenilir bir kullanıcı deneyimi sunmak için en iyi
 uygulama düzenli güncellemeler yapmaktır.
 
-<br>
 
-Eğer bu makaleden keyif aldıysanız ve faydalı bulduysanız desteğiniz benim için çok değerli. Beni takip ederek veya bir kahve
-ısmarlayarak takdirinizi gösterebilirsiniz. Desteğiniz, kaliteli içerik üretmeye devam etmem için beni motive ediyor.
-
-
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#android-uygulamalara-root-ve-emülatör-tespiti-kontrolü-ekleme"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

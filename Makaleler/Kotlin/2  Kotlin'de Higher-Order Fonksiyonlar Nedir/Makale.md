@@ -1,6 +1,6 @@
 # Kotlin'de Higher-Order Fonksiyonlar Nedir?
 
-## **İçindekiler**
+## İçindekiler
 
 - [Higher-Order Fonksiyon Nedir?](#higher-order-fonksiyon-nedir)
 - [Higher-Order Fonksiyon Tanımlama](#higher-order-fonksiyon-tanımlama)
@@ -16,21 +16,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>1 Eylül 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>6 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 <div align="center">
   <img src="./Resources/1.webp" alt="Higher-Order Functions"/>
@@ -360,13 +360,13 @@ ipuçlarına ve kod karışıklığını önleme yöntemlerine başvurabilirsini
 Kotlin öğrenirken ve uygulamalar geliştirirken higher-order fonksiyonları kullanmaya çalışın.
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#kotlinde-higher-order-fonksiyonlar-nedir"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

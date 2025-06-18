@@ -1,6 +1,6 @@
 # Prompt Engineering nedir?
 
-## **İçindekiler**
+## İçindekiler
 
 - [Prompt Engineering nedir?](#prompt-engineering-nedir-1)
 - [Kaynakça](#kaynakça)
@@ -9,21 +9,21 @@
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Yayınlanma Tarihi</th>
+    <th>Yayınlanma Tarihi</th>
     <td>27 Ağustos 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Son Güncelleme Tarihi</th>
+    <th>Son Güncelleme Tarihi</th>
     <td></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Tahmini Okuma Süresi</th>
+    <th>Tahmini Okuma Süresi</th>
     <td>7 dakika</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 <div align="center">
   <img src="./Resources/1.webp" alt="Resim" height="500"/>
@@ -194,7 +194,7 @@ o kadar artacak ve modelin yanıtını belirleme sırasında her bir token için
 bize daha az doğru ya da daha az mantıklı bir tahminleme yapacak. Bu da uzun prompt'ların yanıtlarda daha az etkili olabileceği anlamına gelir.
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## Kaynakça
 
@@ -203,13 +203,13 @@ bize daha az doğru ya da daha az mantıklı bir tahminleme yapacak. Bu da uzun 
 - <a href="https://www.promptingguide.ai/techniques/cot">https://www.promptingguide.ai/techniques/cot</a>
 
 
-![-----------------------------------------------------](../../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#prompt-engineering-nedir"><img src="../../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
